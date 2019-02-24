@@ -4,5 +4,6 @@ public class Main {
 	// write your code here
         Vehicle myVehicle = new Vehicle("Civic");
         System.out.println(myVehicle.toString());
+        // Object class is being overridden
     }
 }
